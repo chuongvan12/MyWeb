@@ -107,10 +107,51 @@ Cài đặt tài khoản
 <img width="582" height="415" alt="z7795560162517_46ee1043daa37bb152d5240f9a25c24e" src="https://github.com/user-attachments/assets/ef4f877d-4f6d-46d5-97b2-560fcb1347be" />
 <img width="581" height="412" alt="z7795563150367_461600b74ad1a0a56b43a721745459c5" src="https://github.com/user-attachments/assets/a4dfc14a-c897-46f6-bac7-72484ed8535f" />
 
+2. Công cụ sử dụng:
 
+Figma
 
+<img width="1280" height="960" alt="z7795578936445_def50de4ffb713a4b66eab6d0aa6579c" src="https://github.com/user-attachments/assets/a4de8d02-1fe8-45e7-926d-e89b375f528f" />
 
+3. Thiết kế các trang (mô tả theo ảnh)
 
+3.1 Trang chủ
+
+Bố cục 2 phần:
+Trái: danh sách sách
+Phải: tìm kiếm + filter
+Dạng grid (lưới)
+Có thanh điều hướng phía trên
+
+3.1 Trang thư viện
+
+Bên trái: menu thể loại
+Bên phải: danh sách sách dạng lưới
+Hiển thị nhiều sách hơn trang chủ
+Trang thể loại
+Dạng button (nút bấm)
+Sắp xếp theo grid
+Click vào sẽ lọc sách
+
+3.3 Trang chi tiết sách
+
+Bên trái: ảnh sách lớn
+Bên phải:
+Tên
+Tác giả
+Đánh giá
+Mô tả
+Dưới có nút hành động
+
+3.4 Trang hồ sơ cá nhân
+
+Bên trái:
+Avatar
+Menu
+Bên phải:
+Kệ sách
+Cài đặt
+Giao dịch
 
 
 
