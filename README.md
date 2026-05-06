@@ -1,6 +1,7 @@
 THIẾT KẾ WEBSITE "CÁ NHÂN"
 
 Xin chào, mình là Cao Văn Chượng
+
 Đây là bản thiết kế website cá nhân đọc sách với mục tiêu giúp người dùng tìm kiếm, đọc và quản lý sách một cách dễ dàng, trực quan.
 
 1. Mô tả chức năng website cá nhân & nội dung các trang
