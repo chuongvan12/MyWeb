@@ -1,4 +1,5 @@
 THIẾT KẾ WEBSITE "CÁ NHÂN"
+
 Xin chào, mình là Cao Văn Chượng
 Đây là bản thiết kế website cá nhân đọc sách với mục tiêu giúp người dùng tìm kiếm, đọc và quản lý sách một cách dễ dàng, trực quan.
 
@@ -28,6 +29,7 @@ Thanh tìm kiếm + bộ lọc:
 Nghệ thuật
 Kinh tế
 Tâm lý
+
 2. Thư viện (Library)
 
 Chức năng:
@@ -46,6 +48,7 @@ Danh sách sách dạng lưới:
 Ảnh bìa
 Tên sách
 Tên tác giả
+
 3. Thể loại (Category)
 
 Chức năng:
@@ -62,6 +65,7 @@ Tâm lý
 Luật
 Pháp
 Giáo hội
+
 4. Chi tiết sách (Book Detail)
 
 Chức năng:
@@ -78,6 +82,7 @@ Mô tả (Synopsis)
 Nút:
 Đọc ngay
 Thêm vào kệ
+
 5. Hồ sơ cá nhân (Profile)
 
 Chức năng:
