@@ -178,6 +178,12 @@ Cài đặt
 
 Giao dịch
 
+Lệnh AI:
+
+Dựa theo bản vẽ, tạo cho tôi mã CSS có giao diện như web Waka.vn, có hiệu ứng chuyển động khi rê chuột vào từng khung sách, không thay đổi html.
+
+Công cụ AI: ChatGPT
+
 
 
 
