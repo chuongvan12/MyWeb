@@ -154,6 +154,7 @@ Tác giả
 Mô tả
 
 Dưới có nút hành động
+
 <img width="582" height="415" alt="z7795560162517_46ee1043daa37bb152d5240f9a25c24e" src="https://github.com/user-attachments/assets/ef4f877d-4f6d-46d5-97b2-560fcb1347be" />
 
 2.5 Trang hồ sơ cá nhân
@@ -171,6 +172,7 @@ Kệ sách
 Cài đặt
 
 Giao dịch
+
 <img width="581" height="412" alt="z7795563150367_461600b74ad1a0a56b43a721745459c5" src="https://github.com/user-attachments/assets/a4dfc14a-c897-46f6-bac7-72484ed8535f" />
 
 3. Công cụ sử dụng:
