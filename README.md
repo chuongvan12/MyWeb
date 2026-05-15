@@ -115,6 +115,7 @@ Phải: tìm kiếm + filter
 Dạng grid (lưới)
 
 Có thanh điều hướng phía trên
+
 <img width="581" height="416" alt="cc" src="https://github.com/user-attachments/assets/55a00ea3-ff54-41f0-bf76-c541093ec1ad" />
 
 2.2 Trang thư viện
