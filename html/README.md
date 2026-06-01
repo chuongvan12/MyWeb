@@ -56,6 +56,7 @@ Nội dung:
 Avatar + tên người dùng Thanh tiến trình hồ sơ Menu: Kệ sách Giao dịch Cài đặt Kệ sách của tôi (danh sách sách đã lưu) Cài đặt tài khoản
 
 Thiết kế các trang (mô tả theo ảnh)
+
 2.1 Trang chủ
 
 Bố cục 2 phần:
@@ -68,7 +69,8 @@ Dạng grid (lưới)
 
 Có thanh điều hướng phía trên
 
-cc
+<img width="581" height="414" alt="z7889314059981_c8438cb601c61a1f493c51bec79799a9" src="https://github.com/user-attachments/assets/22cceaf7-8e2e-4b49-8579-a0dbb84b2b50" />
+
 2.2 Trang thư viện
 
 Bên trái: menu thể loại
@@ -76,8 +78,8 @@ Bên trái: menu thể loại
 Bên phải: danh sách sách dạng lưới
 
 Hiển thị nhiều sách hơn trang chủ
+<img width="583" height="416" alt="z7889314083775_1ec00d889ffaaf2b662f8e621184fe6f" src="https://github.com/user-attachments/assets/baa5cf42-a9ad-4337-994d-4deb8dcce9e6" />
 
-vc
 2.3 Trang thể loại
 
 Dạng button (nút bấm)
@@ -85,8 +87,9 @@ Dạng button (nút bấm)
 Sắp xếp theo grid
 
 Click vào sẽ lọc sách
+<img width="583" height="416" alt="z7889314090874_98c36a3d045f69915ee522c8c297293f" src="https://github.com/user-attachments/assets/d5e8ae48-2cfa-4776-9df5-45d8a48b6bc7" />
 
-z7795557053092_306a6f53096e0e04cc25f48853bc4f4c
+
 2.4 Trang chi tiết sách
 
 Bên trái: ảnh sách lớn
@@ -102,8 +105,9 @@ Tác giả
 Mô tả
 
 Dưới có nút hành động
+<img width="582" height="415" alt="z7889314090492_d3024fc3dc411964be1af2fbe2433895" src="https://github.com/user-attachments/assets/86e26973-bb9e-4b64-952a-2b3130df6600" />
 
-z7795560162517_46ee1043daa37bb152d5240f9a25c24e
+
 2.5 Trang hồ sơ cá nhân
 
 Bên trái:
@@ -119,12 +123,14 @@ Kệ sách
 Cài đặt
 
 Giao dịch
+<img width="581" height="412" alt="z7889314088700_9979978329a922d26c70335229debd94" src="https://github.com/user-attachments/assets/85396aa2-dd96-4b1f-8181-26036ddf00ed" />
 
-z7795563150367_461600b74ad1a0a56b43a721745459c5
+
 Công cụ sử dụng:
 Figma
+<img width="1280" height="960" alt="z7889314119707_377c8fbc063be41f5c1a853c0ea34a8c" src="https://github.com/user-attachments/assets/3a347018-fd20-4fe0-91fd-a5209eb6f273" />
 
-z7795578936445_def50de4ffb713a4b66eab6d0aa6579c
+
 Lệnh AI:
 
 Dựa theo bản vẽ, tạo cho tôi mã CSS có giao diện như web Waka.vn, có hiệu ứng chuyển động khi rê chuột vào từng khung sách, không thay đổi html.
