@@ -78,6 +78,7 @@ Bên trái: menu thể loại
 Bên phải: danh sách sách dạng lưới
 
 Hiển thị nhiều sách hơn trang chủ
+
 <img width="583" height="416" alt="z7889314083775_1ec00d889ffaaf2b662f8e621184fe6f" src="https://github.com/user-attachments/assets/baa5cf42-a9ad-4337-994d-4deb8dcce9e6" />
 
 2.3 Trang thể loại
@@ -87,6 +88,7 @@ Dạng button (nút bấm)
 Sắp xếp theo grid
 
 Click vào sẽ lọc sách
+
 <img width="583" height="416" alt="z7889314090874_98c36a3d045f69915ee522c8c297293f" src="https://github.com/user-attachments/assets/d5e8ae48-2cfa-4776-9df5-45d8a48b6bc7" />
 
 
@@ -105,6 +107,7 @@ Tác giả
 Mô tả
 
 Dưới có nút hành động
+
 <img width="582" height="415" alt="z7889314090492_d3024fc3dc411964be1af2fbe2433895" src="https://github.com/user-attachments/assets/86e26973-bb9e-4b64-952a-2b3130df6600" />
 
 
@@ -123,6 +126,7 @@ Kệ sách
 Cài đặt
 
 Giao dịch
+
 <img width="581" height="412" alt="z7889314088700_9979978329a922d26c70335229debd94" src="https://github.com/user-attachments/assets/85396aa2-dd96-4b1f-8181-26036ddf00ed" />
 
 
